@@ -147,6 +147,10 @@ header nav ul li a:hover {
 
 }
 
+
+/* SECTIONS */
+
+
 section {
     padding-left: 10px;
     padding-right: 10px;
@@ -256,6 +260,8 @@ footer article p {
 
 
 
+/* RESPONSIVE */
+
 
 @media only screen and (max-width:700px){
 
@@ -314,7 +320,9 @@ footer article p {
 }
 
 @media only screen and (min-width:700px){
+
     section:first-of-type h1 {
         margin-top: 150px;
     }
+
 }
