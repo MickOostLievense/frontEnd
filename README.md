@@ -169,13 +169,12 @@ Ik was deze week niet aanwezig bij het voortgangsgesprek. Dit kwam doordat ik mi
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
 
 Ik had het graag willen hebben over het uitlijnen van bepaalde items op mn website.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+
 
 
 
@@ -191,11 +190,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Aan het begin was ik alles qua code schrijven al vergeten. Gelukkig had ik het met een aantal weken al weer goed opgepakt! De lessen waren heel chill en het hielp me heel erg om weer een beetje bij te benen op het gebied van code. De website is af en is het mooiste dat ik tot nu toe heb gemaakt. Ik zal hier onder even een aantal screenshots plaatsen.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/eindres1.jpg">
 
 </details>
 
@@ -212,6 +211,7 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. https://codepen.io/mickoostlievense/pen/OJgwPQV (de regenboog knoppen)
 2. https://www.veloretti.nl/
-3. ...
+3. https://www.google.com/search?q=banken&rlz=1C1UEAD_nlNL970NL970&sxsrf=AOaemvLF-ug_RZ1X5DWXYMRNrkkMV8pXBw:1633638790498&source=lnms&tbm=isch&sa=X&ved=2ahUKEwihy7HekrnzAhWOQEEAHSPPCOgQ_AUoAXoECAIQAw&biw=1719&bih=1319&dpr=1#imgrc=3OqiaCjwTjsZSM
+4. https://www.google.com/search?q=banken&rlz=1C1UEAD_nlNL970NL970&sxsrf=AOaemvLF-ug_RZ1X5DWXYMRNrkkMV8pXBw:1633638790498&source=lnms&tbm=isch&sa=X&ved=2ahUKEwihy7HekrnzAhWOQEEAHSPPCOgQ_AUoAXoECAIQAw&biw=1719&bih=1319&dpr=1#imgrc=ZxyLT-7-ilWJ-M
 
 </details>

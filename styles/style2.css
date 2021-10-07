@@ -288,7 +288,6 @@ footer article p {
         transform: translateX(-50%); /*zorgt er samen met de left:50% voor dat het object in het midden staat*/
         display: flex;
         flex-wrap: wrap;
-        justify-content: center;
     }
     header nav ul li {
         font-size: 1em;
@@ -304,6 +303,7 @@ footer article p {
         width: 50px;
         height: 50px;
         cursor: pointer;
+        transform: translateX(-50%);
     }
 
     footer article h1 {
